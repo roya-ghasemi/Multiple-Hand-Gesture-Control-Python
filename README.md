@@ -2,8 +2,10 @@
 
 # 🤚 Multiple Hand Gesture Control with OpenCV and CVZone
 
+## 🎥 Demo Video
 
-<video src="chose.mp4" controls></video>
+[📽 Download and Watch chose.mp4](./chose.mp4)
+
 
 This project is a practical example of multi-hand gesture detection and control using the OpenCV and CVZone libraries in Python. With this code, you can simultaneously track two hands and measure the distance between them.
 
