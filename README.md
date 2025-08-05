@@ -1,7 +1,7 @@
 
 
 # 🤚 Multiple Hand Gesture Control with OpenCV and CVZone
-
+![Confusion Matrix](Multiple.png)
 
 ## 🎥 Demo Video
 
