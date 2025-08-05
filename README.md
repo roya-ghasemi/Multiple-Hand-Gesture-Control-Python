@@ -2,9 +2,7 @@
 
 # 🤚 Multiple Hand Gesture Control with OpenCV and CVZone
 
-## 🎥 Demo Video
 
-[📽 Download and Watch chose.mp4](chose.mp4)
 ## 🎥 Demo Video
 
 [▶️ Click to Watch Demo Video](https://raw.githubusercontent.com/roya-ghasemi/Multiple-Hand-Gesture-Control-Python/main/chose.mp4)
